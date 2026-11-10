@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="600" viewBox="0 0 720 600"><defs>
+ <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#f1eaea"/><stop offset="1" stop-color="#e6ced0"/></linearGradient>
+ <linearGradient id="metal" x1="0" x2="1" y2="1"><stop stop-color="#f8fafb"/><stop offset=".48" stop-color="#dce2e6"/><stop offset="1" stop-color="#b2bdc5"/></linearGradient>
+ <linearGradient id="black" x1="0" x2="1" y2="1"><stop stop-color="#33464d"/><stop offset=".55" stop-color="#17252d"/><stop offset="1" stop-color="#0c1721"/></linearGradient>
+ <linearGradient id="glass" x1="0" x2="1" y2="1"><stop stop-color="#354149"/><stop offset="1" stop-color="#101b22"/></linearGradient>
+ <filter id="shadow"><feGaussianBlur stdDeviation="17"/></filter></defs>
+ <rect width="720" height="600" fill="url(#bg)"/>
+ <circle cx="590" cy="130" r="210" fill="#fff" fill-opacity=".20"/><circle cx="85" cy="530" r="205" fill="#fff" fill-opacity=".13"/>
+ <ellipse cx="360" cy="520" rx="205" ry="22" fill="#233b46" opacity=".16" filter="url(#shadow)"/><path d="M290 114 H421 L441 336 Q439 368 395 369 H311 Q274 368 276 337Z" fill="#c5d9de" fill-opacity=".68" stroke="#a0b8c2" stroke-width="7"/><path d="M306 295 Q360 316 423 290 L425 336 Q410 358 313 347Z" fill="#85b1a4" opacity=".62"/><path d="M314 127 V280 M410 130V278" stroke="white" opacity=".46" stroke-width="6"/><path d="M423 159 Q495 143 494 226 Q494 284 438 282" fill="none" stroke="#b0c4cb" stroke-width="23"/><rect x="282" y="368" width="164" height="140" rx="30" fill="url(#black)"/><circle cx="364" cy="429" r="36" fill="#cbd8de" stroke="#9babb2" stroke-width="5"/><circle cx="364" cy="429" r="16" fill="#3e555f"/><rect x="279" y="105" width="164" height="27" rx="12" fill="#2d3d47"/><rect x="318" y="477" width="91" height="9" rx="4" fill="#698384"/>
+ </svg>
